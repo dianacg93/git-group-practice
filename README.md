@@ -1,1 +1,1 @@
-# git-group-practice
+Ok this is the actual conflict
