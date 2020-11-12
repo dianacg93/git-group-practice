@@ -1,3 +1,6 @@
+
+Haha Merge conflict 
+
 # git-group-practice
 
 1. The chain was originally called “DomiNick’s”, after the founder Tom Monaghan and his brother purchased the already existing pizza shop in 1960 in Ypsilanti, Michigan.
